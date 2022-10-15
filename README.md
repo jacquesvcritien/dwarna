@@ -132,9 +132,18 @@ To run them separately, use the `-t` command-line argument:
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/NicholasMamo/dwarna/tags).
 
+## Ethereum
+
+* **Setting up an Ethereum Private Dwarna Blockchain** - [README.md](rest/biobank/handlers/blockchain/api/ethereum/docs/README.md)
+* **Changes needed to move from Hyperledger to Ethereum** - [CHANGELOG.md](CHANGELOG.md)
+
+
+
 ## Authors
 
 * **Nicholas Mamo** - *Development* - [NicholasMamo](https://github.com/NicholasMamo)
+
+* **Jacques Vella Critien** - *Development* - [jacquesvcritien](https://github.com/jacquesvcritien)
 
 ## License
 
